@@ -9,7 +9,7 @@ During this class, you will learn:
 
 ## Class Activities
 
-Here are the activities you will complete in this class. If you get stuck or have any questions, please refer to the documents linked here for more information.
+Here osnha-insta- s for more information.
 
 1. Comment on [this issue](https://github.com/certify/template-everyone/issues/1) with one thing you are hoping to learn in todays training.
 2. Create an issue to add your bio to the class site. [Instructions](https://github.com/certify/template-everyone/blob/master/instructions/create-issue.md)
